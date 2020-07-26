@@ -1,0 +1,16 @@
+{
+  "name": "infiniteblog",
+  "version": "1.0.0",
+  "description": "a block which goes infinite when you scroll page down",
+  "main": "script.js",
+  "homepage": "https://asyr01.github.io/infinitebloq",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ali Sayar",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
